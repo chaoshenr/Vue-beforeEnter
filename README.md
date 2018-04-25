@@ -128,10 +128,6 @@ export default {
 
 至此，我们的 beforeEnter 就完成了，可以做个demo自己测试下，目前本人在项目比较多的地方都会用到它。
 
-在此附上以上代码的demo链接：https://github.com/chaoshenr/Vue-beforeEnter
-
-
-
 ## Build Setup
 
 ``` bash
